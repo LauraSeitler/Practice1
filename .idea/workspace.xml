@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="635e776d-965d-4cfc-8b0b-8ee99986eacc" name="Changes" comment="first commit practice 1 TemperatureHelper">
-      <change afterPath="$PROJECT_DIR$/src/test/java/TemperatureHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TemperatureHelperTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TemperatureHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TemperatureHelperTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TemperatureHelperTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +47,7 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit3",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3": "junit.framework.TestCase",
     "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
+    "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
@@ -85,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677522399503</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first commit practice 1 TemperatureHelper">
+      <created>1677537308583</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677537308583</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

@@ -17,6 +17,10 @@ public class TemperatureHelperTest extends TestCase {
     }
 
     public void testFarenheitToKelvin() {
+        double result1 = TemperatureHelper.farenheitToCelsius(32);
+        double result2= TemperatureHelper.farenheitToCelsius(45);
+        assertEquals(273, result1 = 273.15);
+        assertEquals(290, result2 = 290,4565);
     }
 
     public void testCelsiusToFarenheit() {
